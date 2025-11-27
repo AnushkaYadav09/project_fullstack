@@ -1,0 +1,39 @@
+{
+  "students": [
+    {
+      "name": "buddy",
+      "section": "A",
+      "marks": 85,
+      "grade": "A",
+      "id": 1
+    },
+    {
+      "name": "Vanshika",
+      "section": "B",
+      "marks": 72,
+      "grade": "B",
+      "id": 2
+    },
+    {
+      "name": "Anushka ",
+      "section": "CB",
+      "marks": 80,
+      "grade": "B",
+      "id": 3
+    },
+    {
+      "name": "Saurabh",
+      "section": "CB",
+      "marks": 95,
+      "grade": "A+",
+      "id": 4
+    },
+    {
+      "name": "Ramya",
+      "section": "Cb",
+      "marks": 89,
+      "grade": "A",
+      "id": 5
+    }
+  ]
+}
